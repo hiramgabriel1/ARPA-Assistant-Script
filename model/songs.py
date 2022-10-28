@@ -1,0 +1,1 @@
+songs = ["./assets/song.mp3", "./assets/you-know-how-we-do-it.mp3", "./assets/song_billie.mp3", "./assets/fk.mp3"]
