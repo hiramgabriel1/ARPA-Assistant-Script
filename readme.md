@@ -1,4 +1,4 @@
- ARPA Assistant 
+ ## ARPA Assistant 
 
 Harp is a voice assistant that runs on your console. a python script to perform certain actions
 
